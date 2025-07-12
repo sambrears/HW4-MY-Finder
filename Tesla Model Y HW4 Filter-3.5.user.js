@@ -6,6 +6,8 @@
 // @match        https://www.tesla.com/inventory/used/my?*
 // @grant        none
 // @run-at       document-idle
+// @author		sambrears
+// @homepage	https://github.com/sambrears/HW4-MY-Finder
 // ==/UserScript==
 
 (function () {
